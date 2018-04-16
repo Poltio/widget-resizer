@@ -9,6 +9,6 @@ If you want to use Poltio Embeds in your site and if you want all the Poltio Emb
 
 in your template. Adding this tag only once will allow us to resize our Embed iframes depending on the available space after the page load event. 
 
-All the nececcery calculations done in our iframes and this is a non-blocking code. 
+All the necessary calculations done in our iframes and this is a non-blocking code. 
 
 
